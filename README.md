@@ -4,6 +4,6 @@
 - 디자인하는 개발자입니다
   
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/canary25/?hl=ko)](https://www.instagram.com/canary25/?hl=ko)
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yeeun.han.330)](https://www.facebook.com/yeeun.han.330)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yeeunhan4651)](https://www.facebook.com/yeeunhan4651)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:canary4651@gmail.com)](mailto:canary4651@gmail.com)
 	
